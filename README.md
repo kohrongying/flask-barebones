@@ -1,5 +1,8 @@
 # Flask Barebones
-Just a template for flask, login and registration funcionality included.
+Just a template for flask, login and registration funcionality included. Best used with Linux OS.
+- Bootstrap 4 CDN used
+- Blueprints, alembic migration incorporated
+- Does not include testing
 
 ### Install all required things
 - pip: `sudo apt-get install python-pip`
@@ -64,3 +67,6 @@ At root of project folder
 ```
 python run.py
 ```
+
+### Credits
+These great tutorials: [here](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) and [here](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
