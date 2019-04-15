@@ -13,7 +13,7 @@ Flask-Testing==0.6.1
 Flask-WTF==0.13.1
 gunicorn>=19.5.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2>=2.10.1
 Mako==1.0.6
 MarkupSafe==1.0
 opentok==2.4.1
