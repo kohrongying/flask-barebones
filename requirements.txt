@@ -14,7 +14,7 @@ Flask-WTF==0.13.1
 gunicorn>=19.5.0
 itsdangerous==0.24
 Jinja2>=2.10.1
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 opentok==2.4.1
 packaging==16.8
